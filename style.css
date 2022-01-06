@@ -79,11 +79,11 @@ body{
 .mission h1 {
     text-align: center;
     font-size: 50px;
-    color: rgb(23, 48, 48);
+    color: darkslategray;
     margin-bottom: 50px;
 }
 .mission h1 span{
-    color:rgb(58, 75, 25);
+    color: chocolate;
 }
 .mission-box{
     height: 60vh;
